@@ -1,0 +1,9 @@
+// with declared types
+var d: float; // default == 0
+var a: float = 0.0f; // f float literal
+var b: double = 9993.0; // double literal
+var c: double = -42.0;
+// with type inference
+var x = 0.0f;
+var y = 9993.0;
+var z = -42.0;
