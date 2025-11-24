@@ -8,10 +8,13 @@ The world's first program in any programming language, in Virgil.
 Doing maths.
 
 ## Arrays
+Examples of the `Array<T>` type.
 
 ## Branches
+Flow control (branches and loops and such).
 
 ## Casts
+Virgil's interesting cast syntax.
 
 ## Classes
 

@@ -1,0 +1,6 @@
+def main() {
+    def fc = FirstComponent.bar();
+    System.puts("bar: " );
+    System.puts(fc);
+    System.ln();
+}

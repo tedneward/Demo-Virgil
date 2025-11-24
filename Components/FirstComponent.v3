@@ -6,4 +6,7 @@ component FirstComponent {
 	def foo(a: int, b: int) -> int {
 		return 2 * a + b;
 	}
+	def bar() -> string {
+		return "Hello world";
+	}
 }

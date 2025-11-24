@@ -1,9 +1,10 @@
 // with declared types
-var d: int; // default == 0
-var a: int = 0;
-var b: int = 9993;
-var c: int = -42;
-// with type inference
+var a: i8 = 0;     // signed 8-bit integer
+var b: u16 = 9993; // unsigned 16-bit integer
+var c: i21 = -42;  // signed 21-bit integer
+var d: int;        // 32-bit integer defaulting to 0
+// with type inference: all signed 32-bit integer
 var x = 0;
 var y = 9993;
 var z = -42;
+
